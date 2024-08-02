@@ -29,7 +29,7 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the Repository**:
    
-   git clone https://github.com/<your-username>/verivox-test-suite.git
+   git clone https://github.com/PonyTailExpress/verivox-test-suite.git
    cd verivox-test-suite
 
 2. **Install Dependencies**:
